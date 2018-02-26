@@ -26,7 +26,7 @@ Authers:
 - Gil Maman       : gil.maman.5@gmail.com
 - Alon Melamud    : alonmem@gmail.com
 - Dani Rubin: 	  : sbhruchi@gmail.com
-- Tom Guter        : tomyguter@gmail.
+- Tom Guter        : tomyguter@gmail.com
 
 
 
